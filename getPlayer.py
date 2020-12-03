@@ -129,3 +129,8 @@ for player in players:
 
 
 
+
+########TODO
+# work on fife
+# get GK skills
+# card data , image , backgroud stuff
